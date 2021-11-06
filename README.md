@@ -29,7 +29,9 @@ Request body:
 }
 ```
  
-<img src="https://github.com/springexamples/spring-data-jpa-mongodb-expressions-demo/raw/master/etc/1.PNG?raw=true" />
+ Screenshot:
+
+<img src="https://github.com/springexamples/spring-data-jpa-mongodb-expressions-demo/raw/master/etc/1.PNG?raw=true" width="700px" />
 
 ---
 
@@ -48,4 +50,4 @@ Request body:
 }
 ```
 
-<img src="https://github.com/springexamples/spring-data-jpa-mongodb-expressions-demo/raw/master/etc/2.PNG?raw=true" />
+<img src="https://github.com/springexamples/spring-data-jpa-mongodb-expressions-demo/raw/master/etc/2.PNG?raw=true" width="700px" />
