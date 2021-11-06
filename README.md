@@ -5,7 +5,7 @@
 
 ### Example queries:
 
-1. find all employees with last name "ibrahim" _or_ firstname is "mostafa" and birthdate after "1990-01-01", sorting by id desc:
+**1. find all employees with last name "ibrahim" _or_ firstname is "mostafa" and birthdate after "1990-01-01", sorting by id desc:**
 
 URL: 
 ```
@@ -33,7 +33,7 @@ Request body:
 
 ---
 
-2. find all employees with last name "ibrahim" _or_ department name contains "sw":
+**2. find all employees with last name "ibrahim" _or_ department name contains "sw":**
 
 URL:
 ```
