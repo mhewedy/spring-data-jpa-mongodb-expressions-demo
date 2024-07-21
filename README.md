@@ -51,3 +51,11 @@ Request body:
 ```
 
 <img src="https://github.com/springexamples/spring-data-jpa-mongodb-expressions-demo/raw/master/etc/2.PNG?raw=true" width="700px" />
+
+---
+
+**3. query using curl:**
+
+```
+curl -XPOST -d '{"firstName": "fofo"}' -H 'content-type: application/json' http://localhost:8080/search?sort=id,desc | jq
+```
